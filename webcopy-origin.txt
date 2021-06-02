@@ -1,0 +1,1820 @@
+Uri: https://gokkusagibilisim.xyz/index.html
+File Name: H:\website copy\gokkusagibilisim.xyz\index.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/assets/images/favicon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+File Name: H:\website copy\gokkusagibilisim.xyz\bootstrap\4.5.2\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://pro.fontawesome.com/releases/v5.10.0/css/all.css
+File Name: H:\website copy\gokkusagibilisim.xyz\releases\v5.10.0\css\all.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/assets/css/style.css
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\css\style.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/assets/css/responsive.css
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/announcements
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/about.html
+File Name: H:\website copy\gokkusagibilisim.xyz\about.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/shared.html
+File Name: H:\website copy\gokkusagibilisim.xyz\shared.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/dedicated.html
+File Name: H:\website copy\gokkusagibilisim.xyz\dedicated.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/vds.html
+File Name: H:\website copy\gokkusagibilisim.xyz\vds.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/domain.html
+File Name: H:\website copy\gokkusagibilisim.xyz\domain.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/reseller.html
+File Name: H:\website copy\gokkusagibilisim.xyz\reseller.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/login
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-1.html
+Content Type: text/html
+
+Uri: https://docs.gokkusagibilisim.xyz/
+File Name: H:\website copy\gokkusagibilisim.xyz\index.htm
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/assets/images/logo.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dropdown-menu-img-1.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dropdown-menu-img-1.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dropdown-menu-img-2.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dropdown-menu-img-2.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dropdown-menu-img-3.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dropdown-menu-img-3.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/banner-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\banner-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/slider-2-banner-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\slider-2-banner-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/slider-3-banner-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\slider-3-banner-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-disk-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-disk-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-bandwidth-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-bandwidth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-email-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-email-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-domain-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-domain-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/server-disk-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\server-disk-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/server-bandwidth-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\server-bandwidth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-cpu-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-cpu-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/ram-memory.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\ram-memory.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/hosting-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\hosting-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/vps-disk-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\vps-disk-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/vps-bandwidth-icon.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\vps-bandwidth-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/guarrantee-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\guarrantee-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/guarrantee-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\guarrantee-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/guarrantee-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\guarrantee-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/guarrantee-img-4.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\guarrantee-img-4.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/map-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\map-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/featuere-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\featuere-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/featuere-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\featuere-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/featuere-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\featuere-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/featuere-img-4.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\featuere-img-4.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/contact-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\contact-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/contact-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\contact-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/contact-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\contact-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/footer-logo.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\footer-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://code.jquery.com/jquery-3.2.1.slim.min.js
+File Name: H:\website copy\gokkusagibilisim.xyz\jquery-3.2.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js
+File Name: H:\website copy\gokkusagibilisim.xyz\ajax\libs\popper.js\1.12.9\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js
+File Name: H:\website copy\gokkusagibilisim.xyz\bootstrap\4.0.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap
+File Name: H:\website copy\gokkusagibilisim.xyz\css2.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/assets/images/data-center-background.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\data-center-background.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/about-us-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\about-us-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/contact-us-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\contact-us-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/angle-down.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\angle-down.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-hosting-plan-background.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-hosting-plan-background.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/shared-bannner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\shared-bannner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/vps-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\vps-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/landing-page-banner-img.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\landing-page-banner-img.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/assets/images/support-banner.png
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\support-banner.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Raleway:400,700
+File Name: H:\website copy\gokkusagibilisim.xyz\css.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/css/all.min.css?v=ade0d0
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\css\all.min.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/css/fontawesome-all.min.css
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\css\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/css/custom.css
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\css\custom.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-2.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-3.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-4.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-5.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-6.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-7.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-8.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-9.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-10.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-11.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-12.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-13.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-14.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-15.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-16.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-17.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-18.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-19.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-20.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-21.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-22.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-23.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-24.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-25.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-26.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fannouncements&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-27.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-28.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/paylasimli-web-hosting-baslangic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-29.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/paylasimli-web-hosting-kurumsal
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-30.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/paylasmli-web-hosting-premium
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-31.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/baslangic-vds-sunucular
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-32.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/orta-vds-sunucular
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-33.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/yuksek-performans-sunucular
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-34.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/dedicated-sunucular
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-35.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/reseller-balangc
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-36.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/reseller-kurumsal
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-37.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/store/reseller-premium
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-38.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&domain=register
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-1.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&domain=transfer
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-2.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/knowledgebase
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-39.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/password/reset
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-40.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/announcements/view/older
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-41.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/announcements/rss
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php.rss
+Content Type: application/rss+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=/download
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-42.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/submitticket.php
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\submitticket.php.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/js/scripts.min.js?v=ade0d0
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/logo.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/overlay-spinner.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\overlay-spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/clippy.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\clippy.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-1.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-2.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-3.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-4.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-5.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-6.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-7.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-8.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-9.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-10.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-11.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-12.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-13.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-14.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-15.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-16.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-17.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-18.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-19.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-20.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-21.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-22.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-23.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-24.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-25.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/contact.php?language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\contact.php-26.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/home.html
+File Name: H:\website copy\gokkusagibilisim.xyz\home.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/assets/images/vision-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\vision-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/mission-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\mission-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/choose-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\choose-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/shared-plan-box-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\shared-plan-box-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/shared-plan-box-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\shared-plan-box-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/shared-plan-box-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\shared-plan-box-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reliable-shared-hosting-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reliable-shared-hosting-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-hosting-plan-img.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-hosting-plan-img.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-hosting-plan-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-hosting-plan-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-hosting-plan-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-hosting-plan-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/dedicated-hosting-plan-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\dedicated-hosting-plan-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/js/jquery-1.8.3.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\jquery-1.8.3.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/organictabs.jquery.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\organictabs.jquery.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/jquery.cycle.all.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\jquery.cycle.all.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/jquery.slicknav.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\jquery.slicknav.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/slider.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\slider.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/jquery-ui-1.9.2.custom.min.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\jquery-ui-1.9.2.custom.min.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/jquery.effects.core.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\jquery.effects.core.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/scripts.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/vps-def.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\vps-def.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/vps_sliders.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\vps_sliders.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/tab2_sliders.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\tab2_sliders.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/js/tab3_sliders.js
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\js\tab3_sliders.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-plan-box-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-plan-box-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-plan-box-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-plan-box-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-plan-box-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-plan-box-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-management-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-management-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/domain-management-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\domain-management-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-plan-box-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-plan-box-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-plan-box-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-plan-box-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-feature-plan-box-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-feature-plan-box-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-feature-plan-box-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-feature-plan-box-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-feature-plan-box-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-feature-plan-box-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-guarrantees-plan-box-img-1.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-guarrantees-plan-box-img-1.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-guarrantees-plan-box-img-2.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-guarrantees-plan-box-img-2.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/assets/images/reseller-guarrantees-plan-box-img-3.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\assets\images\reseller-guarrantees-plan-box-img-3.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-43.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-44.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-45.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-46.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-47.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-48.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-49.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-50.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-51.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-52.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-53.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-54.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-55.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-56.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-57.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-58.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-59.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-60.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-61.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-62.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-63.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-64.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-65.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-66.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-67.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Flogin&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-68.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/fonts/glyphicons-halflings-regular.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/img/flags.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\img\flags.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/img/flags@2x.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\img\flags@2x.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/search.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\search.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/img/worldmap.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\img\worldmap.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/unknown.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\unknown.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/visa.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\visa.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/mastercard.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\mastercard.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/amex.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\amex.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/dinersclub.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\dinersclub.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/discover.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\discover.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/unionpay.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\unionpay.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/jcb.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\jcb.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/maestro.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\maestro.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/forbrugsforeningen.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\forbrugsforeningen.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/img/payment/dankort.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\img\payment\dankort.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/css/blue.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\css\blue.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/six/css/blue@2x.png
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\six\css\blue@2x.png
+Content Type: image/png
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-brands-400.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-duotone-900.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-light-300.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-regular-400.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.eot
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.eot?
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.woff2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.woff
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.ttf
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/webfonts/fa-solid-900.svg
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-1.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-2.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-3.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-4.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-5.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-6.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-7.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-8.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-9.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-10.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-11.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-12.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-13.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-14.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-15.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-16.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-17.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-18.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-19.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-20.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-21.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-22.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-23.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-24.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-25.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/register.php?language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\register.php-26.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/sozlesme.html
+File Name: H:\website copy\gokkusagibilisim.xyz\sozlesme.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/js/StatesDropdown.js
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\js\StatesDropdown.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/panel/assets/js/PasswordStrength.js
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\assets\js\PasswordStrength.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-3.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-4.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-5.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-6.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-7.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-8.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-9.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-10.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-11.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-12.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-13.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-14.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-15.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-16.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-17.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-18.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-19.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-20.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-21.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-22.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-23.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-24.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-25.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-26.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-27.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=view&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-28.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/orderforms/standard_cart/css/all.min.css?v=ade0d0
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\orderforms\standard_cart\css\all.min.css
+Content Type: text/css
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=checkout&e=false
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-29.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/templates/orderforms/standard_cart/js/scripts.min.js?v=ade0d0
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\templates\orderforms\standard_cart\js\scripts.min.js
+Content Type: application/javascript
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-69.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-70.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-71.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-72.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-73.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-74.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-75.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-76.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-77.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-78.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-79.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-80.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-81.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-82.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-83.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-84.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-85.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-86.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-87.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-88.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-89.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-90.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-91.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-92.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-93.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-94.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-95.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-96.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-97.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-98.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-99.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-100.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-101.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-102.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-103.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-104.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-105.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-106.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-107.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-108.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-109.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-110.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-111.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-112.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-113.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-114.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-115.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-116.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-117.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-118.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-119.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-baslangic&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-120.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&pid=2
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-30.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&pid=3
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-31.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&pid=4
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-32.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/cart.php?a=add&pid=5
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\cart.php-33.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-121.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-122.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-123.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-124.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-125.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-126.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-127.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-128.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-129.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-130.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-131.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-132.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-133.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-134.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-135.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-136.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-137.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-138.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-139.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-140.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-141.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-142.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-143.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-144.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-145.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasimli-web-hosting-kurumsal&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-146.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-147.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-148.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-149.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-150.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-151.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-152.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-153.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-154.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-155.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-156.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-157.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-158.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-159.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-160.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-161.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-162.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-163.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-164.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-165.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-166.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-167.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=russian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-168.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=spanish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-169.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=swedish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-170.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=turkish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-171.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fpaylasmli-web-hosting-premium&language=ukranian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-172.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=arabic
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-173.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=azerbaijani
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-174.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=catalan
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-175.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=chinese
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-176.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=croatian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-177.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=czech
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-178.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=danish
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-179.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=dutch
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-180.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=english
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-181.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=estonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-182.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=farsi
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-183.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=french
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-184.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=german
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-185.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=hebrew
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-186.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=hungarian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-187.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=italian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-188.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=macedonian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-189.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=norwegian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-190.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=portuguese-br
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-191.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=portuguese-pt
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-192.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/index.php?rp=%2Fstore%2Fbaslangic-vds-sunucular&language=romanian
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.php-193.html
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\index.htm
+Content Type: text/html
+
+Uri: https://gokkusagibilisim.xyz/panel/includes/verifyimage.php
+File Name: H:\website copy\gokkusagibilisim.xyz\panel\includes\verifyimage.php.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/sYnv8EWgVD
+File Name: H:\website copy\gokkusagibilisim.xyz\invite\sYnv8EWgVD.html
+Content Type: text/html
+
